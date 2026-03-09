@@ -2,7 +2,7 @@
 
 Netflix is one of the most famous adopters of **microservices architecture**, moving away from a traditional monolithic application to handle massive global scale, rapid innovation, and high availability.
 
-Originally, Netflix ran as a **monolith** — a single, large codebase where the entire application (UI, business logic, databases, etc.) was tightly coupled. This made scaling difficult, deployments risky (one change could break everything), and development slow as teams blocked each other.
+Originally, Netflix ran as a **monolith**, a single, large codebase where the entire application (UI, business logic, databases, etc.) was tightly coupled. This made scaling difficult, deployments risky (one change could break everything), and development slow as teams blocked each other.
 
 In contrast, **microservices** break the system into hundreds (now over 1,000) small, loosely coupled, independently deployable services. Each service owns a specific business capability (e.g., user recommendations, streaming playback, billing, content metadata).
 
@@ -84,7 +84,7 @@ Segment initially split into **over 140 microservices** for isolation and team a
 
 ## Takeaway
 
-Microservices are **not universally better** — they shine at true hyperscale with mature tooling, practices, and organizational alignment (like Netflix).  
+Microservices are **not universally better**, they shine at true hyperscale with mature tooling, practices, and organizational alignment (like Netflix).  
 
 For many teams and use cases, the added complexity and operational cost outweigh the benefits — leading to a pragmatic return to **modular monoliths** or simpler architectures.
 

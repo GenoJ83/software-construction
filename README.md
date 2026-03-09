@@ -86,6 +86,6 @@ Segment initially split into **over 140 microservices** for isolation and team a
 
 Microservices are **not universally better**, they shine at true hyperscale with mature tooling, practices, and organizational alignment (like Netflix).  
 
-For many teams and use cases, the added complexity and operational cost outweigh the benefits — leading to a pragmatic return to **modular monoliths** or simpler architectures.
+For many teams and use cases, the added complexity and operational cost outweigh the benefits, leading to a pragmatic return to **modular monoliths** or simpler architectures.
 
 This README provides a balanced view: celebrate Netflix's success while acknowledging real-world reversals elsewhere.
